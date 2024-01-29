@@ -1,0 +1,4 @@
+/**
+ * Types
+ */
+let helloText = 'hello';
