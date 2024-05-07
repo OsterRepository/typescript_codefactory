@@ -31,3 +31,6 @@
 let numbOrString: number | string = '아이유';
 
 numbOrString.toString();
+
+// (2) typeof Narrowing
+numbOrString = Math.random() > 0.5 ? '아이유' : 10;
